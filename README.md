@@ -1,3 +1,3 @@
 # test
 
-This is new
+This is new line.
